@@ -1,12 +1,8 @@
 # mylog
 
 ## links
-|:---|:---:|---:|
-|[gmail](https://mail.google.com/)| | |
 
-<!--
 | 左揃え | 中央揃え | 右揃え |
 |:---|:---:|---:|
-|1 |2 |3 |
+|[gmail](https://mail.google.com/) |2 |3 |
 |4 |5 |6 |
--->
